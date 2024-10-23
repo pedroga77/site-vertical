@@ -11,8 +11,16 @@ ul, ol, li {
     list-style: none;
 }
 
+html, body{
+    scroll-behavior: smooth;
+}
+
+
+
 header{
     background-color: black;
+    position: fixed;
+    width: 100vw;
 
 }
 header nav ul{
@@ -30,4 +38,25 @@ header nav a {
      background-color: lightblue;
      color: black;
      padding: 8;
+ }
+
+ .grupo{
+     height: 100vh;
+ }
+
+ #vermelho{
+     background-color: red;
+
+ }
+ #verde{
+     background-color: green;
+ }
+ #azul{
+     background-color: blue;
+ }
+ #amarelo{
+     background-color: yellow;
+ }
+ #roxo{
+     background-color: purple;
  }
