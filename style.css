@@ -18,7 +18,7 @@ html, body{
 
 
 header{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     position: fixed;
     width: 100vw;
 
@@ -30,7 +30,7 @@ header nav ul{
 }
 
 header nav a {
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 8px;
     transition: 1s;
 }
@@ -45,18 +45,50 @@ header nav a {
  }
 
  #vermelho{
-     background-color: red;
+     background-color: #C93232;
 
  }
  #verde{
-     background-color: green;
+     background-color: #FEC210;
  }
  #azul{
-     background-color: blue;
+     background-color: #3C4BF2;
  }
  #amarelo{
-     background-color: yellow;
+     background-color: #980CDE;
  }
  #roxo{
-     background-color: purple;
+     background-color: #3E7A1C;
  }
+
+ 
+ 
+ .barro{
+     width: 70vh;
+     margin-left: 60vh;
+     
+ }
+ 
+ .kurosaki{
+     width: 70vh;
+     margin-top: 4vh;
+ }
+ 
+ .hirako{
+     width: 40vw;
+     margin-top: 32.8vh;
+     margin-left: 25vw;
+ }
+
+ .aizen{
+     width: 90vh;
+     margin-left:50vh;
+     margin-top: 39.5vh ;
+     
+ }
+
+ .starrk{
+     float: right;
+     width: 108.5vh;
+ }
+
