@@ -92,3 +92,102 @@ header nav a {
      width: 108.5vh;
  }
 
+.titulo1{
+    text-align: center;
+    color: white;
+    font-size: 200px;
+    position: relative;
+    top: -1300px;
+    margin-left: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.titulo2{
+    text-align: center;
+    color: white;
+    font-size: 170px;
+    position: relative;
+    top: -1300px;
+    margin-left: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.titulo3{
+    text-align: center;
+    color: white;
+    font-size:170px;
+    position: relative;
+    margin-left: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top: 45px;
+}
+
+.titulo4{
+    text-align: center;
+    color: white;
+    font-size: 250px;
+    position: relative;
+    top: -1300px;
+    margin-left: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.titulo5{
+    text-align: center;
+    color: white;
+    font-size: 250px;
+    position: relative;
+    top: -1300px;
+    margin-left: -1800px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.texto1{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -1300px;
+    width: 100vh;
+    margin-left: 800px;
+    font-size: 70px;
+}
+
+.texto2{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -1300px;
+    width: 200vh;
+    margin-left: 10px;
+    font-size: 70px;
+}
+
+.texto3{
+    color: white;
+    text-align: center;
+    position: relative;
+    width: 200vh;
+    margin-left: 10px;
+    font-size: 70px;
+    top: 50px;
+}
+
+.texto4{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -1300px;
+    width: 200vh;
+    margin-left: 10px;
+    font-size: 50px;
+}
+
+.texto5{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -1800px;
+    width: 60vh;
+    margin-left: 1500px;
+    font-size: 50px;
+}
